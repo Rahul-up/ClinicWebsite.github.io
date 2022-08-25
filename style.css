@@ -192,7 +192,7 @@ p{
 
 /* 3 Banner */
 .banner_wrapper{
-    background-image:url('../images/top-banner-img/Top-banner.jpg');
+    background-image:url('./images/top-banner-img/Top-banner.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
